@@ -2,7 +2,7 @@
   "name": "tea-protocal",
   "version": "1.0.2",
   "description": "tea protocal",
-  "main": "tea_request.js",
+  "main": "tea_protocal.js",
   "scripts": {
     "test": "node test.js"
   },
